@@ -6,6 +6,7 @@ A simple Android app with native C++ code (NDK) to convert between various units
   <img src="./Images/ImageTwo.png" alt="Screen 2" width="150" />
   <img src="./Images/ImageThree.png" alt="Screen 3" width="150" />
 </p>
+
 ## Prerequisites
 - Android Studio (Arctic Fox or later) with NDK and CMake support installed.
 - Android SDK (installed via SDK Manager).
