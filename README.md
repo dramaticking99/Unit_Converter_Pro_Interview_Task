@@ -1,6 +1,11 @@
 
 # Unit Converter Pro
 A simple Android app with native C++ code (NDK) to convert between various units (length, weight, temperature)
+<p align="center">
+  <img src="./Images/ImageOne.png" alt="Screen 1" width="150" />
+  <img src="./Images/ImageTwo.png" alt="Screen 2" width="150" />
+  <img src="./Images/ImageThree.png" alt="Screen 3" width="150" />
+</p>
 ## Prerequisites
 - Android Studio (Arctic Fox or later) with NDK and CMake support installed.
 - Android SDK (installed via SDK Manager).
